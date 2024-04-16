@@ -17,7 +17,7 @@ Scripts:
 ### First we can ping all the hosts with ansip
 
 ```ansip```
-![[Pasted image 20240416020803.png]]
+![Pasted image 20240416020803](https://github.com/4rji/ansible/assets/118249932/344e8f37-e4e4-49ce-9cf8-e8c8dcef15a2)
 
 
 ### To ping just one host from the list
